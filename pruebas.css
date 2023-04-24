@@ -1,0 +1,15 @@
+html, body{
+	height: 100%;
+}
+.container{
+	height: 80%;
+	width: 300px;
+	margin: auto;
+	background-color: blue;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.hijo{
+	background-color: red;
+}
